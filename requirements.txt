@@ -1,0 +1,6 @@
+tensorflow==2.15.0
+keras==2.15.0
+opencv-python==4.11.0.86
+numpy==1.26.4
+pygame==2.6.1
+matplotlib

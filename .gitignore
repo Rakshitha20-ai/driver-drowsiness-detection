@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and large model binaries
+data/*
+models/*
+*.h5
+*.keras
+*.wav
+
+# Runtime output
+image.jpg
+screenshots/
+*.log
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
