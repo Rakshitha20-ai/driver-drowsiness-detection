@@ -6,7 +6,7 @@ FACE_CASCADE = PROJECT_ROOT / "haar cascade files" / "haarcascade_frontalface_al
 LEFT_EYE_CASCADE = PROJECT_ROOT / "haar cascade files" / "haarcascade_lefteye_2splits.xml"
 RIGHT_EYE_CASCADE = PROJECT_ROOT / "haar cascade files" / "haarcascade_righteye_2splits.xml"
 
-MODEL_PATH = PROJECT_ROOT / "models" / "drowsiness_model.keras"
+MODEL_PATH = PROJECT_ROOT / "models" / "cnnCat2.h5"
 ALARM_PATH = PROJECT_ROOT / "alarm.wav"
 
 IMAGE_SIZE = (24, 24)
